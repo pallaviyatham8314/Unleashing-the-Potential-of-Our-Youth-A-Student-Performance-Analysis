@@ -10,3 +10,9 @@ https://drive.google.com/file/d/1ZbOhyMWRoZVCZzCl5H_jp-irXx2S2WQ5/view?usp=drive
 
 project visualizations -> 
 https://drive.google.com/file/d/10iDaQpBt8jb-HBWmA4xzrglk7mTEB-S6/view?usp=drivesdk
+
+Project Dashboard ->
+https://drive.google.com/file/d/1m0RfFUsC5PYbnBklTa0jUvk9UtnhJ47S/view?usp=drivesdk
+
+Project Story ->
+https://drive.google.com/file/d/1WWm57HMl6shZ6VfDihsctTJLY97VdCdU/view?usp=drivesdk
